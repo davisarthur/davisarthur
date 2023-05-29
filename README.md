@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davisarthur
 - I graduated in December 2022 from the University of Florida with a Master's in Computer Science 🐊
-- At UF, I primarily focused on machine learning and computer graphics. Check out my most recent machine learning and computer graphics projects in my pinned repos.
+- At UF, I primarily focused on machine learning and computer graphics. Check out my most recent machine learning and computer graphics projects in my pinned repos. You can also find detailed written and video reports of each project here: https://www.dropbox.com/scl/fo/h0qkkb5dt6d3xqxa087ey/h?dl=0&rlkey=8vmjpox7trw9elyvaos9f74p3
 - Previously, I've contributed to several research projects centered around quantum computing and quantum cryptography.
 My BalancedClustering repository is an open source implementation of a quantum clustering algorithm I designed for the D-Wave 2000Q quantum computer. 
 Read more here: https://link.springer.com/article/10.1007/s11128-021-03240-8 
